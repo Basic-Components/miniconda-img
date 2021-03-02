@@ -1,6 +1,6 @@
 # miniforge-img
 
-Miniforge的docker镜像,尽量压缩,只用于做基镜像,使用`debian:stretch-20210208-slim`作为基镜像.
+Miniforge的docker镜像,尽量压缩,换国内源只用于做基镜像,使用`debian:stretch-20210208-slim`作为基镜像.
 
 镜像名规则为:
 

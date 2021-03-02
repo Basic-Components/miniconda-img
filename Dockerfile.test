@@ -1,4 +1,4 @@
 #FROM hsz1273327/debian-stretch-20210208-slim-miniforge:amd64-4.9.2-7
-FROM condaforge/miniforge3:4.9.2-5
-
+#FROM condaforge/miniforge3:4.9.2-5
+FROM hsz1273327/miniforge:4.9.2-5
 RUN conda info
