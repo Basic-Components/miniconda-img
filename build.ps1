@@ -1,0 +1,2 @@
+docker buildx build --load  -f Dockerfile.amd64 -t hsz1273327/debian-stretch-20210208-slim-miniforge:amd64-4.9.2-7 .
+docker buildx build --load  -f Dockerfile.arm64 -t hsz1273327/debian-stretch-20210208-slim-miniforge:arm64-4.9.2-7 .
